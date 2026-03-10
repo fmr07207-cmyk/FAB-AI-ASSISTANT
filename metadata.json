@@ -1,0 +1,5 @@
+{
+  "name": "FAB - Fahim AI Breachguard",
+  "description": "Advanced Cybersecurity AI Assistant Dashboard for ethical hacking education and defensive security learning.",
+  "requestFramePermissions": ["microphone"]
+}
